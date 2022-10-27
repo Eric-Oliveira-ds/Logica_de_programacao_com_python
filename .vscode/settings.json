@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "entrada_processamento_saída"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
